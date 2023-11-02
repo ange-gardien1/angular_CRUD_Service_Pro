@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin: auto;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(90, 16, 16, 0.878);
+    color: white;
+    padding: 20px;
+    gap: 40px;
+    cursor:pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

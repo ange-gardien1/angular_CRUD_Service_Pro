@@ -1,0 +1,27 @@
+p{
+    text-align: center;
+    margin-left: 0%;
+    padding: 10px ;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    margin: 0%;
+    margin-top: 6%;
+    margin-left: 0%;
+    padding:10px;
+}
+.link{  
+    text-align: center;
+    margin-bottom: 4%;
+}
+.container{
+    width: 40%;
+    text-align: center;
+    border: 4px;
+    border-color: aquamarine;
+    border-style: solid;
+    margin-top: 6%;
+    margin-left: 32%;
+    margin-bottom: 6%;
+}

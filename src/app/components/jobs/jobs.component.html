@@ -1,0 +1,10 @@
+
+<div class="container3">
+    <div>
+        <h1 id="h1job">Work History</h1>
+    </div>
+    <div *ngFor="let j of joblist " [routerLink]="['/jobs', j.id]">
+        <p>{{j.tittle}}</p>
+    </div>
+</div>
+

@@ -1,0 +1,39 @@
+#h1job{
+    text-align: left;
+    margin: 0%;
+    margin-top: 6%;
+    margin-left: 26%;
+    padding:10px;
+}
+
+ul{
+    margin-left: 24%;
+    margin-top: 2%;
+    padding: 10px;
+    margin-bottom: 5%;
+}
+li{
+padding: 5px;
+list-style: none;
+
+}
+
+.container3{
+
+    width: 30%;
+    border: 6%;
+    border-color: rgb(18, 121, 131) ;
+    border-style: solid;
+    margin-top: 6%;
+    margin-left: 34%;
+    border-radius: 2%;
+}
+
+p{
+    text-align: left;
+    margin-left: 40%;
+    padding: 10px ;
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+}
