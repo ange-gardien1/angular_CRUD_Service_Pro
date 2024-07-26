@@ -8,13 +8,14 @@ import { AboutComponent } from './components/about/about.component';
 import { JobsComponent } from './components/jobs/jobs.component';
 import { JobdetailsComponent } from './components/jobdetails/jobdetails.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     AboutComponent,
     JobsComponent,
-    JobdetailsComponent
+    JobdetailsComponent,
   ],
   imports: [
     BrowserModule,

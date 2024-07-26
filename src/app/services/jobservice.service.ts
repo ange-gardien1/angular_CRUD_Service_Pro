@@ -24,7 +24,7 @@ export class JobserviceService {
       employer : "Prime cement"
     },
     {
-      id: 3,
+      id  : 3,
       tittle: "CFO",
       description : "Chief Finance Office:  provide financial insight and analysis to support strategic  desicion-making",
       duration : "9 months",
